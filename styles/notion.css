@@ -642,7 +642,7 @@ svg.notion-page-icon {
   padding: 0.2em 0.4em;
   background: #f0f1f2;
   border-radius: 3px;
-  font-size: 85%;
+  font-size: 100%;
   font-family: 'anonymicepro_nerd_fontregular', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier,
     monospace;
 }
