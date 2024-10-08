@@ -636,9 +636,9 @@ svg.notion-page-icon {
 }
 
 .notion-inline-code {
-  color: #eb5757;
+  color: #000000;
   padding: 0.2em 0.4em;
-  background: var(--bg-color-2);
+  background: #f0f1f2;
   border-radius: 3px;
   font-size: 85%;
   font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier,
