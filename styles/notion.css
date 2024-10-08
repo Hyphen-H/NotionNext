@@ -1965,7 +1965,6 @@ svg + .notion-page-title-text {
   font-size: 1em;
   /* color: var(--notion-gray); */
   /*border-left: 3px solid currentcolor;*/
-  margin: 6px 0;
 }
 
 /* .notion-asset-wrapper-pdf > div {
