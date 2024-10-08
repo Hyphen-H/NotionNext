@@ -101,7 +101,7 @@ function createSakura() {
       case 'fnr':
         random = Math.random() * 0.03
         ret = function (r) {
-          return r + random
+          return r + random * 0.01
         }
         break
     }
