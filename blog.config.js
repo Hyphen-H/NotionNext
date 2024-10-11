@@ -315,10 +315,10 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/ 
     {
-      name: '嘘月',
-      artist: 'ヨルシカ (Yorushika)',
-      url: 'https://c6.y.qq.com/base/fcgi-bin/u?__=BEfOCjya0trW', //https://api.injahow.cn/meting/?server=tencent&type=song
-      cover: 'https://ptpimg.me/985nuq.png'
+      name: '華色の青春',
+      artist: 'うたたね歌菜',
+      url: 'https://on.soundcloud.com/MtvxaeVfVCZeYxyM9', //https://api.injahow.cn/meting/?server=tencent&type=song
+      cover: 'https://ptpimg.me/6knv1o.png'
     },
   ],
   MUSIC_PLAYER_METING: 
