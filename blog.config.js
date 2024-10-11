@@ -321,6 +321,13 @@ const BLOG = {
       //
       cover: 'https://ptpimg.me/6knv1o.png'
     },
+    {
+      name: '结衣の决意',
+      artist: '黒須克彦',
+      url: 'https://bafybeigfcockmvggzaw4ylbq2c4nliwcxm73phhk7lz42slextwnfx4m54.ipfs.w3s.link/%E7%B5%90%E8%A1%A3%E3%81%AE%E6%B1%BA%E6%84%8F.mp3', //https://api.injahow.cn/meting/?server=tencent&type=song //https://audio.jukehost.co.uk/lexb6zKbMvYg1KPUVqBg58nbUZqHPOAL
+      //
+      cover: 'https://ptpimg.me/y5jyz0.png'
+    },
   ],
   MUSIC_PLAYER_METING: 
     process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，https://github.com/metowolf/MetingJS 从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST
