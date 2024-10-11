@@ -317,7 +317,8 @@ const BLOG = {
     {
       name: '華色の青春',
       artist: 'うたたね歌菜',
-      url: 'https://audio.jukehost.co.uk/lexb6zKbMvYg1KPUVqBg58nbUZqHPOAL', //https://api.injahow.cn/meting/?server=tencent&type=song
+      url: 'https://bafybeia7lvujbe43kvs2jvgfe2zxm2tpww5tajttgk5gnt55ifrxwlylqu.ipfs.w3s.link/%E8%8F%AF%E8%89%B2%E3%81%AE%E9%9D%92%E6%98%A5.mp3', //https://api.injahow.cn/meting/?server=tencent&type=song //https://audio.jukehost.co.uk/lexb6zKbMvYg1KPUVqBg58nbUZqHPOAL
+      //
       cover: 'https://ptpimg.me/6knv1o.png'
     },
   ],
