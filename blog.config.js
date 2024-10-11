@@ -317,7 +317,7 @@ const BLOG = {
     {
       name: '華色の青春',
       artist: 'うたたね歌菜',
-      url: 'https://soundcloud.com/hyphen-h/huasedeqingchun/s-X2AnsCfPRti', //https://api.injahow.cn/meting/?server=tencent&type=song
+      url: 'https://audio.jukehost.co.uk/lexb6zKbMvYg1KPUVqBg58nbUZqHPOAL', //https://api.injahow.cn/meting/?server=tencent&type=song
       cover: 'https://ptpimg.me/6knv1o.png'
     },
   ],
