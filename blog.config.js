@@ -322,7 +322,7 @@ const BLOG = {
     },
   ],
   MUSIC_PLAYER_METING: 
-    process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || true, // 是否要开启 MetingJS，https://github.com/metowolf/MetingJS 从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST
+    process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，https://github.com/metowolf/MetingJS 从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST
   MUSIC_PLAYER_METING_SERVER:
     process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING_SERVER || 'tencent', // 音乐平台，[netease, tencent, kugou, xiami, baidu]
   MUSIC_PLAYER_METING_ID:
