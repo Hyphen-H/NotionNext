@@ -317,15 +317,18 @@ const BLOG = {
     {
       name: '華色の青春',
       artist: 'うたたね歌菜',
-      url: 'https://bafybeia7lvujbe43kvs2jvgfe2zxm2tpww5tajttgk5gnt55ifrxwlylqu.ipfs.w3s.link/%E8%8F%AF%E8%89%B2%E3%81%AE%E9%9D%92%E6%98%A5.mp3', //https://api.injahow.cn/meting/?server=tencent&type=song //https://audio.jukehost.co.uk/lexb6zKbMvYg1KPUVqBg58nbUZqHPOAL
+      url: 'https://audio.jukehost.co.uk/lexb6zKbMvYg1KPUVqBg58nbUZqHPOAL', 
+      //https://api.injahow.cn/meting/?server=tencent&type=song 
+      //https://bafybeia7lvujbe43kvs2jvgfe2zxm2tpww5tajttgk5gnt55ifrxwlylqu.ipfs.w3s.link/%E8%8F%AF%E8%89%B2%E3%81%AE%E9%9D%92%E6%98%A5.mp3
       //
       cover: 'https://ptpimg.me/6knv1o.png'
     },
     {
       name: '结衣の决意',
       artist: '黒須克彦',
-      url: 'https://bafybeigfcockmvggzaw4ylbq2c4nliwcxm73phhk7lz42slextwnfx4m54.ipfs.w3s.link/%E7%B5%90%E8%A1%A3%E3%81%AE%E6%B1%BA%E6%84%8F.mp3', //https://api.injahow.cn/meting/?server=tencent&type=song //https://audio.jukehost.co.uk/lexb6zKbMvYg1KPUVqBg58nbUZqHPOAL
-      //
+      url: 'https://audio.jukehost.co.uk/ZUFD3WJSwySvQvdOZt5aWSTflsiXhDnF',
+      //https://od.lk/s/NzZfMTA5Mzk2ODY3Xw/%E7%B5%90%E8%A1%A3%E3%81%AE%E6%B1%BA%E6%84%8F.mp3',
+      //https://bafybeigfcockmvggzaw4ylbq2c4nliwcxm73phhk7lz42slextwnfx4m54.ipfs.w3s.link/%E7%B5%90%E8%A1%A3%E3%81%AE%E6%B1%BA%E6%84%8F.mp3
       cover: 'https://ptpimg.me/y5jyz0.png'
     },
   ],
