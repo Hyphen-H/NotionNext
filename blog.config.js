@@ -324,6 +324,12 @@ const BLOG = {
       cover: 'https://ptpimg.me/6knv1o.png'
     },
     {
+      name: 'She Was Running (From “My Brilliant Friend” TV Series Soundtrack).mp3',
+      artist: 'Max Richter',
+      url: 'https://audio.jukehost.co.uk/OeIV4yhtIP7LhuLw1EkTi3HZVDWsJVQM',
+      cover: 'https://ptpimg.me/ke8dos.jpg'
+    },
+    {
       name: '结衣の决意',
       artist: '黒須克彦',
       url: 'https://audio.jukehost.co.uk/ZUFD3WJSwySvQvdOZt5aWSTflsiXhDnF',
