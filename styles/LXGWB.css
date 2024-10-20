@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'LXGWB';
+    src: url('https://cdn.jsdelivr.net/gh/Hyphen-H/NotionNext@main/styles/LXGW-Bright-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Hyphen-H/NotionNext@main/styles/LXGW-Bright-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
