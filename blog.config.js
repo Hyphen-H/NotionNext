@@ -63,14 +63,15 @@ const BLOG = {
   // 字体CSS 例如 https://npm.elemecdn.com/lxgw-wenkai-webfont@1.6.0/style.css
   FONT_URL: [
     // 'https://npm.elemecdn.com/lxgw-wenkai-webfont@1.6.0/style.css',
-    'https://static.zeoseven.com/cn/292/main/result.css',
-    'https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200..900&display=swap',
-    'https://fonts.googleapis.com/css?family=Bitter&display=swap',
-    'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100..900&family=Noto+Serif+SC:wght@200..900&display=swap'
+    'https://cdn.jsdelivr.net/gh/Hyphen-H/NotionNext@main/styles/LXGWB.css',
+    //'https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200..900&display=swap',
+    'https://fonts.googleapis.com/css?family=Bitter&display=swap'
+    //'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100..900&family=Noto+Serif+SC:wght@200..900&display=swap'
   ],
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
     //'"LXGW WenKai"',
+    'LXGWB',
     '"Noto Serif SC"'
     //'"LXGW WenKai"',
     //'"PingFang SC"',
@@ -93,6 +94,7 @@ const BLOG = {
   // 衬线字体 例如'"LXGW WenKai"'
   FONT_SERIF: [
     //'"LXGW WenKai"',
+    'LXGWB',
     '"Noto Serif SC"'
   ],
   FONT_AWESOME:
