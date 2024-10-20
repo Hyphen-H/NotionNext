@@ -71,7 +71,7 @@ const BLOG = {
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
     // '"LXGW WenKai"',
-    'Noto Sans',
+    '"Noto Sans"',
     //'"LXGW WenKai"',
     //'"PingFang SC"',
     //'-apple-system',
@@ -93,7 +93,7 @@ const BLOG = {
   // 衬线字体 例如'"LXGW WenKai"'
   FONT_SERIF: [
     // '"LXGW WenKai"',
-    'Noto Serif',
+    '"Noto Serif"',
   ],
   FONT_AWESOME:
     process.env.NEXT_PUBLIC_FONT_AWESOME_PATH ||
