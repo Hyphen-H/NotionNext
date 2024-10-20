@@ -64,6 +64,7 @@ const BLOG = {
   FONT_URL: [
     // 'https://npm.elemecdn.com/lxgw-wenkai-webfont@1.6.0/style.css',
     'https://static.zeoseven.com/cn/292/main/result.css',
+    'https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200..900&display=swap',
     'https://fonts.googleapis.com/css?family=Bitter&display=swap',
     'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100..900&family=Noto+Serif+SC:wght@200..900&display=swap'
   ],
