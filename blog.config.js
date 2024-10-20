@@ -65,13 +65,13 @@ const BLOG = {
     // 'https://npm.elemecdn.com/lxgw-wenkai-webfont@1.6.0/style.css',
     'https://static.zeoseven.com/cn/292/main/result.css',
     'https://fonts.googleapis.com/css?family=Bitter&display=swap',
-    'https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap',
-    'https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap'
+    'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100..900&family=Noto+Serif+SC:wght@200..900&display=swap',
+    'https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200..900&display=swap'
   ],
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
-    '"LXGW WenKai"',
-    '"Noto Sans"',
+    //'"LXGW WenKai"',
+    '"Noto Sans SC"',
     //'"LXGW WenKai"',
     //'"PingFang SC"',
     //'-apple-system',
@@ -92,8 +92,8 @@ const BLOG = {
   ],
   // 衬线字体 例如'"LXGW WenKai"'
   FONT_SERIF: [
-    '"LXGW WenKai"',
-    '"Noto Serif"',
+    //'"LXGW WenKai"',
+    '"Noto Serif SC"',
   ],
   FONT_AWESOME:
     process.env.NEXT_PUBLIC_FONT_AWESOME_PATH ||
