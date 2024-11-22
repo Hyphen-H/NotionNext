@@ -93,7 +93,7 @@ function createSakura() {
         }
         break
       case 'fny':
-        random = 1.5 + Math.random() * 0.7 / 5 // 将速度放慢五倍
+        random = 1.5 + Math.random() * 0.7
         ret = function (x, y) {
           return y + random
         }
